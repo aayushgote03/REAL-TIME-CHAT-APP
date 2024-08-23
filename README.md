@@ -1,4 +1,10 @@
-![image] (./Screenshot (1009).png)# ✨ Real-Time Chat App ✨
+# Real-Time-Chat-App
+
+Welcome to the Real-Time-Chat-App!
+
+![Chat App Screenshot](./Screenshot (1009).png)
+
+# ✨ Real-Time Chat App ✨
 
 Welcome to the Real-Time Chat App —an interactive, dynamic, and secure platform for instant messaging between multiple users.
 Built using the MERN stack, this application is designed to connect people across the globe in real-time!
