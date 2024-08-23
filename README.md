@@ -15,7 +15,6 @@ Check out the live demo of the project [here](https://real-chat-bu5l.onrender.co
 - **💬 Real-Time Messaging**: Instant messaging powered by Socket.io for a seamless chat experience.
 - **🛠️ Built with MERN Stack**: MongoDB, Express.js, React, and Node.js for a full-fledged, modern web application.
 - **🎨 Sleek UI/UX**: Crafted with Tailwind CSS and Daisy UI for a responsive and attractive interface.
-- **📂 File Sharing**: Share images, documents, and more directly in the chat.
 
 
 ## 📸 Screenshots
