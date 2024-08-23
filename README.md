@@ -2,8 +2,6 @@
 
 Welcome to the Real-Time-Chat-App!
 
-![image](./Screenshot (1009).png)
-
 # ✨ Real-Time Chat App ✨
 
 Welcome to the Real-Time Chat App —an interactive, dynamic, and secure platform for instant messaging between multiple users.
