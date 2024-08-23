@@ -2,7 +2,7 @@
 
 Welcome to the Real-Time-Chat-App!
 
-![Chat App Screenshot](./Screenshot (1009).png)
+![image](./Screenshot (1009).png)
 
 # ✨ Real-Time Chat App ✨
 
