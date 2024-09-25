@@ -10,6 +10,7 @@ Built using the MERN stack, this application is designed to connect people acros
 ## Live Demo
 
 Check out the live demo of the project [here](https://real-chat-bu5l.onrender.com/login).
+WAIT ATLEAST A MINUTE BEFORE THE PAGE APPEARS, BECAUSE OF THE SITE INACTIVITY
 
 
 
